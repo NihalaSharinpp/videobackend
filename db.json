@@ -1,0 +1,107 @@
+{
+  "videos": [
+    {
+      "id": "8",
+      "caption": "Vaaranam Aayiram",
+      "thumbnail": "https://english.cdn.zeenews.com/sites/default/files/2021/07/22/953304-vaaranam-aayiram.jpg",
+      "url": "https://www.youtube.com/embed/FzLpP8VBC6E"
+    },
+    {
+      "id": "7",
+      "caption": "En Roja Neeye ",
+      "thumbnail": "https://chennaivision.com/wp-content/uploads/2023/05/TITLELOOK-1-1.jpg",
+      "url": "https://www.youtube.com/embed/5683ZiVRs7Y"
+    },
+    {
+      "id": "5",
+      "caption": "Aaromal Video Song",
+      "thumbnail": "https://i.ytimg.com/vi/FCp8mq-vYv8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "6",
+      "caption": "Neela Nilave",
+      "thumbnail": "https://timesofindia.indiatimes.com/photo/msid-103197447/103197447.jpg?resizemode=4",
+      "url": "https://www.youtube.com/embed/5683ZiVRs7Y"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Cartoon",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "Neela Nilave",
+          "thumbnail": "https://timesofindia.indiatimes.com/photo/msid-103197447/103197447.jpg?resizemode=4",
+          "url": "https://www.youtube.com/embed/5683ZiVRs7Y"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Entertainment",
+      "allVideos": [
+        {
+          "id": "7",
+          "caption": "En Roja Neeye ",
+          "thumbnail": "https://chennaivision.com/wp-content/uploads/2023/05/TITLELOOK-1-1.jpg",
+          "url": "https://www.youtube.com/embed/5683ZiVRs7Y"
+        },
+        {
+          "id": "8",
+          "caption": "Vaaranam Aayiram",
+          "thumbnail": "https://english.cdn.zeenews.com/sites/default/files/2021/07/22/953304-vaaranam-aayiram.jpg",
+          "url": "https://www.youtube.com/embed/FzLpP8VBC6E"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "News",
+      "allVideos": []
+    },
+    {
+      "id": "4",
+      "name": "Jokes",
+      "allVideos": []
+    },
+    {
+      "id": "5",
+      "name": "movies",
+      "allVideos": []
+    }
+  ],
+  "watch_history": [
+    {
+      "id": "1",
+      "cardName": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/5683ZiVRs7Y",
+      "date": "05-12/2023"
+    },
+    {
+      "id": "689641a9-f11c-4bfd-b2e6-142e2c2fdb7b",
+      "cardName": "Vaaranam Aayiram",
+      "url": "https://www.youtube.com/embed/FzLpP8VBC6E",
+      "date": "2023-11-14T11:02:33.089Z"
+    },
+    {
+      "id": "881c904d-3464-41bc-a577-a707f132686b",
+      "cardName": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/5683ZiVRs7Y",
+      "date": "2023-11-14T11:04:05.692Z"
+    },
+    {
+      "id": "982ec76e-872b-4ac0-81e2-7939fd8f65c9",
+      "cardName": "Aaromal Video Song",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "2023-11-14T11:04:08.798Z"
+    },
+    {
+      "id": "eb9fa153-8ddb-49de-ae69-33ba9907300f",
+      "cardName": "Vaaranam Aayiram",
+      "url": "https://www.youtube.com/embed/FzLpP8VBC6E",
+      "date": "2023-11-21T10:34:57.262Z"
+    }
+  ]
+}
